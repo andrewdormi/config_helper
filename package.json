@@ -1,0 +1,23 @@
+{
+  "name": "config_helper",
+  "version": "0.0.1",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "ncp": "^2.0.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewdormi/config_helper.git"
+  },
+  "author": "Dormi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/andrewdormi/config_helper/issues"
+  },
+  "homepage": "https://github.com/andrewdormi/config_helper#readme"
+}
